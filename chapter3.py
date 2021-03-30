@@ -5,6 +5,7 @@ greet = 'Hello, '
 
 print("Concatenating: ", greet+name)
 
+print(f"Python supports formatted strings as {name} and {greet}are printed here")
 
 print("\nString slicing")
 print("Element 1 is:", name[1])
