@@ -38,6 +38,7 @@ print("Find if a certain string is present or not and give its index:", name.fin
 # Find just gives back the index of first occurrence of the substring not all
 print("Replace one part of the string with another:", name.replace("cd", "xy"))
 # Replace function replaces all the occurrences of the given string with the new string
+print("The strip function is used to remove all initial and trailing spaces from a string:", "    Hello   leo".strip())
 
 # IMPORTANT NOTE: Functions like find and replace do not change the original string, they just return a new string
 
