@@ -1,0 +1,2 @@
+This text will be written in the 'newFile.txt' after it is created.
+Now the file is opened in append mode and this text will be added to the file.
