@@ -56,20 +56,3 @@ print("\nEven numbers of the list: ", sub)
 list3 = [1, 2, 3, 2, 7, 5, 3, 4, 5]
 subset = {i for i in list3}
 print(subset)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
