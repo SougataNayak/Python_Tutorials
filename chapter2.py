@@ -54,3 +54,9 @@ print("\nInput function")  # Used to take inputs
 n = input("Enter anything: ")
 print("The entered text and its type is:", n, type(n))
 # IMPORTANT NOTE: Anything you receive as an input will always be of string class
+
+
+# Ternary operator
+a, b = 10, 20
+minimum = a if a < b else b
+print("The minimum of a and b is:", minimum)
